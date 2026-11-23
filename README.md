@@ -5,7 +5,7 @@
 >
 > All future development, updates, bug reports, and feature requests belong in the [new repository](https://github.com/YiChenLu0119-prog/harbor-workspace-dock) and its [Issues](https://github.com/YiChenLu0119-prog/harbor-workspace-dock/issues). This repository is retained as a historical copy and will no longer receive updates.
 >
-> **已迁移：**后续更新与反馈统一在[新仓库](https://github.com/YiChenLu0119-prog/harbor-workspace-dock)，本仓库仅保留历史版本。
+> **已迁移：** 后续更新与反馈统一在[新仓库](https://github.com/YiChenLu0119-prog/harbor-workspace-dock)，本仓库仅保留历史版本。
 
 English | [简体中文](README.zh-CN.md)
 

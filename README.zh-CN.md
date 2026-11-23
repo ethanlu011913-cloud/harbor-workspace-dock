@@ -1,7 +1,7 @@
 # 泊岸 Harbor · Workspace Dock
 
 > [!IMPORTANT]
-> **本仓库已迁移。**泊岸的正式仓库现为 [YiChenLu0119-prog/harbor-workspace-dock](https://github.com/YiChenLu0119-prog/harbor-workspace-dock)。
+> **本仓库已迁移。** 泊岸的正式仓库现为 [YiChenLu0119-prog/harbor-workspace-dock](https://github.com/YiChenLu0119-prog/harbor-workspace-dock)。
 >
 > 后续开发、版本更新、问题报告和功能建议统一在[新仓库](https://github.com/YiChenLu0119-prog/harbor-workspace-dock)及其 [Issues](https://github.com/YiChenLu0119-prog/harbor-workspace-dock/issues) 进行。本仓库仅保留历史版本，不再更新。
 
